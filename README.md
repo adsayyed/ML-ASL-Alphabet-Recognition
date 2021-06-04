@@ -1,4 +1,7 @@
+
 # Project Summary
+
+[Medium Article Here](https://medium.com/mlearning-ai/american-sign-language-alphabet-recognition-ec286915df12)
 
 The goal was to create a Machine Learning based, Live American Sign language recognition system.
 
