@@ -15,9 +15,9 @@ To explore this concept in the future, we would try to build upon our model so t
 All in all I worked with a loveley team, and we built a pretty awesome model!
 
 Teammates:
-[Qinwen Zhou](https://www.linkedin.com/in/qinwen-zhou-957844141/)
-[Marshall Wurangian](https://www.linkedin.com/in/marshall-wurangian/)
-[Hao He](https://www.linkedin.com/in/haohe1113/)
-[Matthew Ruffner](https://www.linkedin.com/in/matthew-ruffner-data-analytics/)
-[Dian Zhao](https://www.linkedin.com/in/dian-zhao/)
+[Qinwen Zhou](https://www.linkedin.com/in/qinwen-zhou-957844141/), 
+[Marshall Wurangian](https://www.linkedin.com/in/marshall-wurangian/), 
+[Hao He](https://www.linkedin.com/in/haohe1113/), 
+[Matthew Ruffner](https://www.linkedin.com/in/matthew-ruffner-data-analytics/), 
+[Dian Zhao](https://www.linkedin.com/in/dian-zhao/), 
 [Andrew Han](https://www.linkedin.com/in/uknowandy93/)
